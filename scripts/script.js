@@ -1,72 +1,19 @@
-// JavaScript Document
-console.log("Howdy!");
 
-function iniFollowCursor() {
-    // de body laten luisteren naat mousemoves
-    document.body.addEventListener("mousemove", updateMouseLocalCoor);
-}
-
-function updateMouseLocalCoor(e) {
-    // eerst de x- en y-positie van de muis bepalen
-    // die info zit in het event object
-    // console.log(e);
-    let mouseX = e.clientX;
-    let mouseY = e.clientY;
-
-
-
-    // dan het element dat het event heeft laten afgaan
-    // in dit geval is dat de body
-
-    // we slaan het element voor het gemak even op
-    const element = this;
-
-
-    // info opvragen over de afmetingen en positie
-    const elementRectangle = element.getBoundingClientRect();
-
-
-    // de breedte en hoogte opslaan
-    let elementWidth = elementRectangle.width;
-    let elementHeight = elementRectangle.height;
-
-
-    // percentages berekenen
-    // op welk percentages van het element was de muis in de x-richting
-    // hier komt een getal uit tussen 0 em 1
-    // 0 -> helemaal links, 1 helemaal rechts
-    let x = mouseX / elementWidth;
-    // op welk percentages van het element was de muis in de y-richting
-    // 0 -> helemaal boven, 1 helemaal beneden
-    let y = mouseY / elementHeight;
-
-
-    // de waardes als custom properties aan het element toekennen
-    element.style.setProperty("--mouse-x", x);
-    element.style.setProperty("--mouse-y", y);
-}
-
-// het volgen starten
-iniFollowCursor();
-
-
-
-//var dippydawg = document.querySelector('main button:nth-of-type(1) img')
-
-
+//click functie toevoegen aan het plaatje. Samen met Milan. 
 function maakPlaatjeInteractive(naam, plaatje1url, plaatje1tekst, plaatje2url, plaatje2tekst, animatienaam) {
     var afbeelding = document.querySelector(`#${naam} img`)
     var tekst = document.querySelector(`#${naam} p`)
-    var click = false
+    var click = false //click laat zien of het plaatje gedraaid is. 
     afbeelding.addEventListener('click', function () {
 
         if (!click) {
             afbeelding.classList.add(animatienaam);
+            //het plaatje eerst rotate functie laten doen en daarna veranderen. 
             setTimeout((function () {
                     afbeelding.src = plaatje2url;
                     tekst.textContent = plaatje2tekst;
                 }),
-                350
+                350 
             )
 
             click = true
