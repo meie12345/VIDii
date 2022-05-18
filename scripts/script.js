@@ -54,3 +54,19 @@ maakPlaatjeInteractive('metmax', 'images/goofy6.png', 'tekst', 'images/nu.png', 
 //Goofy 7 plaatje 
 
 maakPlaatjeInteractive('start', 'images/goofy7.png', 'Wowee! Dat maakt mijn dag goed!', 'images/startbutton.png', 'test', "rotate")
+
+//Goofy easter eggg 1
+
+maakPlaatjeInteractive('egg1', 'images/egg1.png', 'Wist je dat...', 'images/goofyegg1.png', 'Goofy vroeger the Goof werd genoemd en vooral te zien was in een overall.', "rotateleft")
+
+//Goofy easter eggg 2
+
+maakPlaatjeInteractive('egg2', 'images/egg2.png', 'Wist je dat...', 'images/goofyegg2.png', 'Mickey Mouse, Donald Duck en Goofy het komische trio waren. Later werden Donald Duck en Goofy vooral samen het komische duo.', "puff")
+
+//Goofy easter eggg 3
+
+maakPlaatjeInteractive('egg3', 'images/goofyegg3.jpeg', 'Wist je dat...', 'images/goofyegg3.png', 'Het vorige plaatje uit een Goofy was uit 1949 in Tennis Racquet?! Naast de afwisselende huidskleur en wel of geen oren heeft Goofy soms ook vijf vingers.', "shake")
+
+//Goofy easter eggg 4
+
+maakPlaatjeInteractive('egg4', 'images/egg4.png', 'Wist je dat...', 'images/goofyegg4.png', 'Goofy pas in 1999 zijn traditionele karakter weer helemaal terug kreeg met de 1940 stijl. Dit is de Goofy die de meeste mensen herkennen.', "jello2")
