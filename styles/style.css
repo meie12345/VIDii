@@ -58,6 +58,10 @@ button:not([disabled]) {
     color: black;
 }
 
+*:focus{
+    outline: none;
+}
+
 
 
 
@@ -132,6 +136,10 @@ button img:before {
 }
 
 button img:hover {
+    filter: var(--schaduw);
+}
+
+button:focus img {
     filter: var(--schaduw);
 }
 
@@ -283,7 +291,7 @@ button#metmax {
 
 button#start {
     width: 10%;
-    top: -17vw;
+    top: -21vw;
     left: 53vw;
 }
 
@@ -303,6 +311,11 @@ button#egg1 img:hover {
     filter: var(--schaduwblauw);
 }
 
+button#egg1:focus img {
+    filter: var(--schaduwblauw);
+}
+
+
 /*************/
 /*EASTEREGG2*/
 /************/
@@ -314,6 +327,10 @@ button#egg2 {
 }
 
 button#egg2 img:hover {
+    filter: var(--schaduwwit);
+}
+
+button#egg2:focus img {
     filter: var(--schaduwwit);
 }
 
@@ -331,6 +348,10 @@ button#egg3 img:hover {
     filter: var(--schaduwblauw);
 }
 
+button#egg3:focus img {
+    filter: var(--schaduwblauw);
+}
+
 /*************/
 /*EASTEREGG4*/
 /************/
@@ -342,6 +363,10 @@ button#egg4 {
 }
 
 button#egg4 img:hover {
+    filter: var(--schaduwwit);
+}
+
+button#egg4:focus img {
     filter: var(--schaduwwit);
 }
 
