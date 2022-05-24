@@ -151,7 +151,6 @@ Het nieuwe concept is uitgewerkt in css en html. Door foto's eerst vanuit Illust
 
 
 ## Voortgang/Feedback 3
-Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
   De plaatjes van Goofy werden niet groter en kleiner aan de hand van de grootte van de website. 
