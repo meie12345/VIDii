@@ -709,8 +709,8 @@ button#egg4 img:hover {
     100% {
         -webkit-transform: translateX(0%);
         transform: translateX(0%);
-        -webkit-transform-origin: 50% 50%;
-        transform-origin: 50% 50%;
+        -webkit-transform-origin: 50% 100%;
+        transform-origin: 50% 100%;
     }
 
     15% {
