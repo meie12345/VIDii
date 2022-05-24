@@ -12,10 +12,10 @@ Meie van Wonderen
 Mijn startniveau is: De eerste keer wintersport, groen. 
 
 
-# Je plan
 
-<details open>
-  <summary>
+
+
+# Je plan
 Concept:
 Mijn concept laat mensen kennismaken met het karakter Goofy. Goofy begon als een klein karakter in de Mickey Mouse animatie shorts. Tegenwoordig is het karakter welbekend en is Goofy de beste vriend van Mickey Mouse en Donald Duck. Net zoals de onhandige Goofy is het design van mijn website ook onhandig. Door een pad dat over het gehele scherm gaat volgt de gebruiker Goofy. Onderweg leert de gebruiker Goofy steeds beter kennen.   
 
@@ -30,8 +30,6 @@ Op het scherm is de start pijl verstopt in een Goofy. Hier begint de gebruiker m
 Details:
 Door op elke Goofy te klikken is er een schaduw te zien. Hierdoor is het duidelijk dat elke Goofy klikbaar is. Bij elke klik verschijnt het spreekwolkje alleen als de gebruiker over de Goofy beweegt met de muis. Elke Goofy heeft een andere overgangsanimatie die bij het plaatje past.  
 
-  </summary>
-
   ### De eerste versie/schets:
   <img src="readme-images/schetsen.png" width="500px" alt="eerste versie/schets">
   <img src="readme-images/concept.png" width="500px" alt="tweede versie/schets">
@@ -43,16 +41,13 @@ Door op elke Goofy te klikken is er een schaduw te zien. Hierdoor is het duideli
   - Ik wil een code kunnen schrijven en begrijpen. 
   - Ik wil het concept dat in mijn hoofd zit kunnen realiseren met coderen. 
   - Ik heb geen ervaring met JavaScript. Ik vind het een uitdaging om iets hierin te doen. 
- 
-</details>
+
 
 
 
 
 ## Voortgang/Feedback 1
-
-<details>
-  <summary>Mijn eerste concept was wat ingewikkelder met programmeren. Ik wist nog niet hoe ik de 'Where is Waldo code' van meneer 't Hooft kon toepassen in mijn website. Daarom heb ik nagedacht over een nieuw design gemaakt van 5 lagen met Goofy. Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+Mijn eerste concept was wat ingewikkelder met programmeren. Ik wist nog niet hoe ik de 'Where is Waldo code' van meneer 't Hooft kon toepassen in mijn website. Daarom heb ik nagedacht over een nieuw design gemaakt van 5 lagen met Goofy. Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
   
@@ -109,17 +104,12 @@ Door op elke Goofy te klikken is er een schaduw te zien. Hierdoor is het duideli
   
    <img src='readme-images/achtergrond.jpeg'>
    <img src='images/goofyegg3.png'>
-   
-
-</details>
 
 
 
 
 ## Voortgang/Feedback 2
-
-<details>
-  <summary>Het nieuwe concept is uitgewerkt in css en html. Door foto's eerst vanuit Illustrator te bewerken en afbeeldingen daarna in de images mak te verplaatsen kan ik content aan mijn website toevoegen. </summary>
+Het nieuwe concept is uitgewerkt in css en html. Door foto's eerst vanuit Illustrator te bewerken en afbeeldingen daarna in de images mak te verplaatsen kan ik content aan mijn website toevoegen. </summary>
   
   ### Bevinding 1:
   De tekst in het spreekwolkjes heeft geen grid en het spreekwolkje staat te dichtbij op een Goofy.  
@@ -159,14 +149,11 @@ Door op elke Goofy te klikken is er een schaduw te zien. Hierdoor is het duideli
   Door onderzoek te doen naar al bestaande CSS animaties kan ik deze animaties als bron overnemen. Hoewel ik zelf niet op het level van coderen zit dat ik de animaties weldegelijk zelf kan verzinnen, kan ik op deze manier toch animaties toevoegen aan mijn website. In de bronnenlijst is te zien dat ik heel vaak de website Animista heb gebruikt. 
 
 
-</details>
 
 
 
 ## Voortgang/Feedback 3
-
-<details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
   De plaatjes van Goofy werden niet groter en kleiner aan de hand van de grootte van de website. 
@@ -205,15 +192,12 @@ Door op elke Goofy te klikken is er een schaduw te zien. Hierdoor is het duideli
    #### oplossing:
   Door een min-heigt toe te voegen kan ik de spreekwolkjes aanpassen, zodat elke tekst past. 
 
-</details>
 
 
 
 
 ## Reflectie
-
-<details>
-  <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
+Mijn eindresultaat & persoonlijke ontwikkeling
 
   ### Je uitkomst - karakteristiek screenshot(s):
   <img src='readme-images/website.png'>
@@ -225,9 +209,6 @@ Door op elke Goofy te klikken is er een schaduw te zien. Hierdoor is het duideli
 
   ### Dit was lastig/Is niet gelukt:
   Soms is het me niet gelukt om helemaal zelf aan de slag te kunnen gaan met de code. Als ik soms vast liep had ik niet genoeg kennis om te kunnen achterhalen wat ik dan precies niet goed had gedaan. Door middel van heel veel hulp van meneer 't Hooft en andere klasgenootjes heb ik uiteindelijk toch een eindresultaat kunnen inleveren, dat ik van te voren niet had verwacht.  
-  
-  
-</details>
 
 
 
@@ -257,6 +238,3 @@ https://www.markdownguide.org/cheat-sheet/
 Bronnen voor Goofy 
 - https://www.youtube.com/watch?v=VuH3Rp-Mnwg 
 - https://disney.fandom.com/wiki/Goofy_Through_the_Years 
-
-
-</details>
