@@ -25,15 +25,13 @@ Op het voetpad zijn clickbare Goofy's. Als de gebruiker over de Goofy hovert kom
 Er zijn ook easter eggs door het pad heen. Hoewel ze duidelijk zichbbaar zijn dienen de easter eggs vooral als kleine weetjes over Goofy. 
 
 Progressive disclosure:
-Op het scherm is de start pijl verstopt in een Goofy. Hier begint de gebruiker met de route om Goofy beter te leren kennen. 
+Op het scherm zijn verschillende Goofy's te zien. Als je met de muis over de Goofy beweegt, dan ziet de gebruiker een tekstwolkje. Ook ziet de gebruiker een gekleurde achtergrond, dat de gebruiker duidelijk wil maken dat Goofy een klikbaar onderdeel is van de website. Als de gebruiker op de Goofy klinkt verandert de Goofy aan de hand van een animatie in een ander plaatje met een ander tekstwolkje. 
 
 Details:
 Door op elke Goofy te klikken is er een schaduw te zien. Hierdoor is het duidelijk dat elke Goofy klikbaar is. Bij elke klik verschijnt het spreekwolkje alleen als de gebruiker over de Goofy beweegt met de muis. Elke Goofy heeft een andere overgangsanimatie die bij het plaatje past.  
 
   ### De eerste versie/schets:
-  <img src="readme-images/schetsen.png" width="500px" alt="eerste versie/schets">
-  <img src="readme-images/concept.png" width="500px" alt="tweede versie/schets">
-  <img src="readme-images/schermconcept.png" width="500px" alt="derde versie/schets">
+  <img src='readme-images/schets.jpg'>
 
 
   ### Je ambitie: 
@@ -215,10 +213,6 @@ Mijn eindresultaat & persoonlijke ontwikkeling
 
 
 ## Bronnenlijst
-
-<details open>
-<summary>continu bijhouden terwijl je werkt</summary>
-
 Goofy heeft bekende uitspraken, die Goofy Goofy maken: 
 - https://disney-magical-world.fandom.com/wiki/Goofy:_Quotes_and_Scripts
 
